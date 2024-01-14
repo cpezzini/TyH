@@ -1,0 +1,18 @@
+{
+  "datos_riesgo_cardiaco": {
+    "colesterol": 1.0,
+    "edad": 50,
+    "glucosa": 0.7,
+    "presion": 1.3,
+    "sobrepeso": 0,
+    "tabaquismo": 0
+  },
+  "message": "success",
+  "password": "marce1234",
+  "processing_time": 4.190781831741333,
+  "respuesta_riesgo_cardiaco": {
+    "prediction": "Paciente sin riesgo card\u00edaco"
+  },
+  "tipo_suscripcion": "Freemium",
+  "user": "marce"
+}
